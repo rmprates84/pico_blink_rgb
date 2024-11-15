@@ -1,1 +1,1 @@
-Código em C para o Raspberry Pi Pico W - Aciona os lEDs RGB da placa BitDogLAB.
+Código em C para o Raspberry Pi Pico W - Aciona os LEDs RGB da placa BitDogLAB.
